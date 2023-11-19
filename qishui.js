@@ -10,7 +10,7 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/leancloud\.emotionwp\.com\/.+\/classes\/wpf_account url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/bizhi.js
+^https?:\/\/leancloud\.emotionwp\.com\/.+\/classes\/wpf_account url script-response-body https://raw.githubusercontent.com/wm13282041/sams_scripts/main/qishui.js
 
 [mitm]
 hostname = api-access.pangolin-sdk-toutiao1.com
