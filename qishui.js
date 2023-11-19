@@ -15,5 +15,5 @@ hostname = api-access.pangolin-sdk-toutiao1.com
 
 *************************************/
 
-let qishui_info = {"code":"20000", "data":""}
+let qishui_info = {"code":"20000", "data":""};
 $done({body : JSON.stringify(qishui_info)});
